@@ -1,2 +1,2 @@
 # Introduction to Python
-Notebook of course "Algorithms and Complexity"
+Notebook of the introductory lesson of the course "Algorithms and Complexity".
