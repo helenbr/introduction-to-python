@@ -2,36 +2,36 @@
 Notebook of the introductory lesson of the course "Algorithms and Complexity". It contains:
 1. Introduction
   
-  a. Variable Types
+        a. Variable Types
   
-  b. Type Casting
+        b. Type Casting
   
-  c. Operators
+        c. Operators
   
-  d. Input / Output
+        d. Input / Output
   
 2. Build-in Data Structures
   
-  a. List
+        a. List
   
-  b. Tuple
+        b. Tuple
   
-  c. Set
+        c. Set
   
-  d. Dictionary
+        d. Dictionary
   
 3. Conditional Statements - Loops - List Comprehensions - Iterations
 
-  a. Conditional Statements
+        a. Conditional Statements
   
-  b. Loops
+        b. Loops
   
-  c. List Comprehensions
+        c. List Comprehensions
   
-  d. Iterations
+        d. Iterations
   
 4. Functions - Importing
 
-  a. Functions
+        a. Functions
   
-  b. Importing
+        b. Importing
